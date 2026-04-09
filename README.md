@@ -1,67 +1,68 @@
-# 📊 CAPSTONE MARKETING & OPERATIONAL DASHBOARD
+# 📊 CAPSTONE MARKETING & OPERATIONAL DASHBOARD  
 
-![Excel](https://img.shields.io/badge/Tool-Excel-green)
-![Dashboard](https://img.shields.io/badge/Type-Marketing%20%26%20Operations-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
----
-
-## 🔍 Project Overview
-
-This project presents a **comprehensive Marketing & Operations Analytics Dashboard** built using Microsoft Excel. It is designed as a capstone project to analyze business performance, optimize decision-making, and deliver actionable insights.
-
-The dashboard integrates **marketing metrics and operational data** into a single interactive interface for better strategic analysis.
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Dashboard](https://img.shields.io/badge/Project-Type%20Analytics%20Dashboard-blue?style=for-the-badge)  
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)  
 
 ---
 
-## 🎯 Objectives
+## 🔍 Project Overview  
 
-* Analyze **marketing performance across regions**
-* Track **sales and revenue trends**
-* Evaluate **operational efficiency**
-* Identify **top-performing products and categories**
-* Monitor **inventory and supply chain performance**
+This project showcases a **high-impact Marketing & Operations Analytics Dashboard** developed in **Microsoft Excel** as part of a capstone project.  
 
----
+It combines **business intelligence, data analysis, and visualization techniques** to provide a unified view of marketing performance and operational efficiency.  
 
-## 🚀 Key Features
-
-✔ Interactive Excel Dashboard
-✔ KPI Cards (Revenue, Profit, Orders, Growth)
-✔ Marketing Analytics (Campaign / Region Analysis)
-✔ Operational Insights (Inventory, Supplier, Delays)
-✔ Pivot Tables & Pivot Charts
-✔ Slicers for Dynamic Filtering
-✔ Clean & Professional UI Design
+The dashboard enables stakeholders to make **data-driven decisions** through interactive and insightful reporting.
 
 ---
 
-## 📊 Dashboard Insights
+## 🎯 Objectives  
 
-* 📈 Revenue & Profit Trends
-* 🌍 Region-wise Sales Performance
-* 🏆 Top Performing Products
-* 🏭 Supplier Cost Contribution
-* ⏳ Warehouse Delay Analysis
-* 📦 Inventory Status (Low / Medium / High)
-
----
-
-## 🛠️ Tools & Technologies Used
-
-* Microsoft Excel
-* Pivot Tables & Pivot Charts
-* Data Cleaning Techniques
-* Excel Formulas:
-
-  * IF / Nested IF
-  * VLOOKUP / XLOOKUP
-  * SUM / AVERAGE
-  * SWITCH
+- Analyze **region-wise marketing performance**  
+- Track **sales, revenue, and profit trends**  
+- Identify **top-performing products & categories**  
+- Evaluate **supplier contribution and operational costs**  
+- Monitor **inventory levels and warehouse delays**  
 
 ---
 
-## 📁 Project Structure
+## 🚀 Key Features  
+
+✔ Fully Interactive Excel Dashboard  
+✔ KPI Cards (Revenue, Profit, Orders, Growth %)  
+✔ Marketing Insights (Campaign & Region Analysis)  
+✔ Operations Analysis (Inventory, Suppliers, Delays)  
+✔ Pivot Tables & Pivot Charts  
+✔ Slicers for Dynamic Filtering  
+✔ Clean, Corporate UI Design  
+
+---
+
+## 📊 Dashboard Insights  
+
+- 📈 Revenue & Profit Trend Analysis  
+- 🌍 Region-wise Sales Distribution  
+- 🏆 Top Performing Products & Categories  
+- 🏭 Supplier Cost Contribution  
+- ⏳ Warehouse Delay Analysis  
+- 📦 Inventory Status Classification (Low / Medium / High)  
+
+---
+
+## 🛠️ Tools & Technologies  
+
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Data Cleaning & Transformation  
+- Advanced Excel Functions:  
+  - IF / Nested IF  
+  - VLOOKUP / XLOOKUP  
+  - SUM / AVERAGE  
+  - SWITCH  
+
+---
+
+## 📁 Project Structure  
 
 ```
 CAPSTONE-MARKETING-OPERATIONAL-DASHBOARD/
@@ -81,74 +82,63 @@ CAPSTONE-MARKETING-OPERATIONAL-DASHBOARD/
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Preview  
 
-👉 Add your dashboard screenshot here:
-<img width="1438" height="589" alt="image" src="https://github.com/user-attachments/assets/a457ac7e-cfdf-43d5-95be-a47867ccec5c" />
+### 🖥️ Main Dashboard View  
+![Dashboard 1](https://github.com/jagadish2003-hub/CAPSTONE-MARKETING-OPERATIONAL-DASHBOARD/blob/e5e2c85177a72d0beb562d4ca4e765cfe75ef020/Screenshot%202026-04-10%20005240.png)
 
-```
-![Dashboard Preview](https://github.com/jagadish2003-hub/CAPSTONE-MARKETING-OPERATIONAL-DASHBOARD/blob/703fce97816370471e303ea65a104a5096bcea22/Screenshot%202026-04-09%20132156.png)
-```
+### 📊 Detailed Analytics View  
+![Dashboard 2](https://github.com/jagadish2003-hub/CAPSTONE-MARKETING-OPERATIONAL-DASHBOARD/blob/e5e2c85177a72d0beb562d4ca4e765cfe75ef020/Screenshot%202026-04-10%20005304.png)
 
 ---
 
-## ⚙️ How to Use
+## ⚙️ How to Use  
 
-1. Clone this repository:
-
+1. Clone the repository:  
 ```
 git clone https://github.com/jagadish2003-hub/CAPSTONE-MARKETING-OPERATIONAL-DASHBOARD.git
 ```
 
-2. Open the Excel file:
-
+2. Open the dashboard file:  
 ```
-Final_Dashboard.xlsx
+dashboard/Final_Dashboard.xlsx
 ```
 
-3. Use slicers to interact with the dashboard
+3. Use slicers to filter and explore insights dynamically  
 
 ---
 
-## 📌 Business Value
+## 📌 Business Value  
 
-This dashboard helps businesses to:
+This dashboard helps organizations to:  
 
-* Make data-driven marketing decisions
-* Improve operational efficiency
-* Reduce delays and costs
-* Optimize inventory management
-* Enhance overall performance tracking
-
----
-
-## 🔮 Future Enhancements
-
-* Power BI Dashboard Version
-* Real-time Database Integration (MySQL)
-* Predictive Analytics & Forecasting
-* Automation using VBA
+- Make **data-driven marketing decisions**  
+- Improve **operational efficiency**  
+- Reduce **costs and delays**  
+- Optimize **inventory management**  
+- Enhance **performance monitoring**  
 
 ---
 
-## 🤝 Contributing
+## 🔮 Future Enhancements  
 
-Contributions are welcome!
-Feel free to fork this repository and improve it.
-
----
-
-## 🧑‍💻 Author
-
-**Jagadish Panda**
-📧 [jagadishpanda2003@gmail.com](mailto:jagadishpanda2003@gmail.com)
-🔗 GitHub: https://github.com/jagadish2003-hub
-🔗 LinkedIn: https://www.linkedin.com/in/jagadishpanda
+- Power BI Interactive Dashboard  
+- Real-time Data Integration (MySQL)  
+- Predictive Analytics & Forecasting  
+- Automation using VBA  
 
 ---
 
-## ⭐ Support
+## 🧑‍💻 Author  
 
-If you like this project, please give it a ⭐ on GitHub!
+**Jagadish Panda**  
+
+📧 jagadishpanda2003@gmail.com  
+🔗 GitHub: https://github.com/jagadish2003-hub  
+🔗 LinkedIn: https://www.linkedin.com/in/jagadishpanda  
 
 ---
+
+## ⭐ Support  
+
+If you found this project useful, consider giving it a ⭐ on GitHub!
